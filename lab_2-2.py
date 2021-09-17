@@ -3,7 +3,9 @@
 a = 3
 
 b = a
+
 print(b,a)
 
 a = 7
+
 print(a,b)
